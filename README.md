@@ -2,7 +2,15 @@
 
 <img src="image.png" width="90%" alt="Hemlokのアバター">
 
-<img src="https://img.shields.io/badge/in%20my-20s-blue?style=for-the-badge&logo" /> <img src="https://img.shields.io/badge/focus-Generative%20AI-ff69b4?style=for-the-badge&logo" /> <img src="https://img.shields.io/badge/X-@Hemlok_SD-1DA1F2?style=for-the-badge&logo=twitter" /> <img src="https://img.shields.io/badge/HuggingFace-Hemlok-orange?style=for-the-badge&logo=huggingface" /> <img src="https://img.shields.io/badge/Portfolio-hemlok--ai.github.io-9cf?style=for-the-badge&logo=githubpages" /> 
+<a href="https://x.com/Hemlok_SD" target="_blank">
+  <img src="https://img.shields.io/badge/X-@Hemlok_SD-1DA1F2?style=for-the-badge&logo=twitter" />
+</a>
+<a href="https://huggingface.co/Hemlok" target="_blank">
+  <img src="https://img.shields.io/badge/HuggingFace-Hemlok-orange?style=for-the-badge&logo=huggingface" />
+</a>
+<a href="https://hemlok-ai.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-hemlok--ai.github.io-9cf?style=for-the-badge&logo=githubpages" />
+</a>
 
 ---
 
